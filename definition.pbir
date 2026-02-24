@@ -1,0 +1,8 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Insurance_Policy_dashboard.SemanticModel"
+    }
+  }
+}
