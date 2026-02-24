@@ -1,0 +1,126 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 292.94117198270908,
+        "y": 185.882355185116
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1192.6470588235293,
+            "y": 199.76470588235293
+          },
+          "nodeIndex": "DM Regional_Manager",
+          "nodeLineageTag": "6d2cd772-55db-4d8b-9e1f-be2a629c2735",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 815.04575163398681,
+            "y": 395.35294117647061
+          },
+          "nodeIndex": "FCT Insurance_Policy_Table",
+          "nodeLineageTag": "d81a2206-efa8-49b8-b5c4-2e2411e3f834",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 543.35019142535077,
+            "y": 769.6008990982408
+          },
+          "nodeIndex": "DM Zonal_Manager",
+          "nodeLineageTag": "3d254fd5-f454-4625-82a6-ca2ac6c28b24",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 554.77308797125374,
+            "y": 49.379800748819861
+          },
+          "nodeIndex": "DM Policy_Type",
+          "nodeLineageTag": "42b0ed28-a6f7-49e0-98e2-c8dc0d3bcd7b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 808.82158935636039,
+            "y": 0
+          },
+          "nodeIndex": "DM Policy_Protection_Plan",
+          "nodeLineageTag": "cb7ce62a-bc01-4696-9a88-2bdb2182f180",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1120.8356782365952,
+            "y": 633.33333333333337
+          },
+          "nodeIndex": "DM Insurance_Agent_Table",
+          "nodeLineageTag": "96d7f454-c37b-45cb-9cca-8bb3e7d659ef",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 806.2222222222224,
+            "y": 779.951284838911
+          },
+          "nodeIndex": "DM Customer_Detail_Table",
+          "nodeLineageTag": "8cae6a83-bb6c-4a50-84b3-263af69cedaf",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 814.17922033935508,
+            "y": 437.03446594886719
+          },
+          "nodeIndex": "04_fact_aggregated_bookings (4)",
+          "nodeLineageTag": "da376be1-640d-4035-8353-59afcd16f12c",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 68,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
